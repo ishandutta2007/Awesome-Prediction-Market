@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Prediction-Market/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Prediction-Market?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Prediction-Market/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Prediction-Market?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Prediction-Market/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Prediction-Market?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Prediction-Market/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Prediction-Market/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -81,7 +81,7 @@ The table below catalogs premier hosted and SaaS prediction market platforms. En
 
 Below is a comprehensive collection of top open-source prediction market platforms, Central Limit Order Book (CLOB) engines, AI agents, and analytical tools.
 
-> ℹ️ **Sorting:** Repositories are strictly sorted in **descending order by live GitHub star count**. Each badge links directly to that repository's stargazers page.
+> ℹ️ **Sorting:** Repositories are strictly sorted in **descending order by live GitHub Stars_Count**. Each badge links directly to that repository's stargazers page.
 
 | 📦 Repository & Link | ⭐ Stargazers Badge | 🛠️ Tech Stack | 📝 Description & Architectural Focus |
 | :--- | :---: | :--- | :--- |
@@ -172,7 +172,7 @@ Contributions from the prediction market, quant trading, and Web3 development co
    - Maintain alphabetical or star-ranked order where appropriate.
    - Include platform name, live link, tech stack, and a clear, objective 1–2 sentence description.
    - For SaaS products, provide exact fee structures and verified free-tier thresholds.
-   - For open-source repos, include the white social star badge linking to `/stargazers`.
+   - For open-source repos, include the white social Stars_Badge linking to `/stargazers`.
 4. 🚀 **Commit your changes:** `git commit -m "Add New-Prediction-Platform"`
 5. 📬 **Submit a Pull Request** with a brief summary of the project.
 
