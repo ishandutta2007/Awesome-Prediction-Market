@@ -1,6 +1,6 @@
 # Awesome-Prediction-Market
 
-# Top Prediction Market Ecosystem
+## Top Prediction Market Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Event Contract Trading, Decentralized Forecasting & Real-Time Probability Pricing*  
